@@ -1,124 +1,194 @@
+ <!--
+  KANISTON S. | DEADPOOL DEVELOPER EDITION
+  GitHub Profile: kaniston
+-->
+
 <p align="center">
-  <!-- 1. DEADPOOL BANNER: Upload 'deadpool-banner.jpg' to your repo -->
-  <img src="https://github.com/kaniston/kaniston/blob/main/deadpool.jpeg" width="100%"  />
+  <img src="https://github.com/kaniston/kaniston/blob/main/deadpool.jpeg" width="100%" alt="Deadpool Developer Banner"/>
 </p>
 
 <div align="center">
 
 ```diff
-- ██   ██  █████  ███    ██ ██ ███████ ████████  ██████  ███    ██ 
-- ██  ██  ██   ██ ████   ██ ██ ██         ██    ██    ██ ████   ██ 
-- █████   ███████ ██ ██  ██ ██ ███████    ██    ██    ██ ██ ██  ██ 
-- ██  ██  ██   ██ ██  ██ ██ ██      ██    ██    ██    ██ ██  ██ ██ 
-- ██   ██ ██   ██ ██   ████ ██ ███████    ██     ██████  ██   ████ 
+- ██   ██  █████  ███    ██ ██ ███████ ████████  ██████  ███    ██
+- ██  ██  ██   ██ ████   ██ ██ ██         ██    ██    ██ ████   ██
+- █████   ███████ ██ ██  ██ ██ ███████    ██    ██    ██ ██ ██  ██
+- ██  ██  ██   ██ ██  ██ ██ ██      ██    ██    ██    ██ ██  ██ ██
+- ██   ██ ██   ██ ██   ████ ██ ███████    ██     ██████  ██   ████
 ```
 
 </div>
 
+<h3 align="center">🩸 THE DEVELOPER WHO NEVER STOPS CODING 🩸</h3>
+
 <p align="center">
-  <i>⚔️ Turning complex problems into scalable full-stack & AI solutions.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Data+Analytics+Enthusiast;B.Sc+Computer+Science+Student;Building+Real-World+Projects;Eat.+Sleep.+Code.+Repeat." alt="Typing Animation"/>
 </p>
 
 <p align="center">
-  B.Sc. Computer Science Student @ <b>Loyola College, Chennai</b> (8.7 CGPA)
-</p>
-
-<p align="center">
-  Full-Stack Developer • AI & Data Analytics Enthusiast • Open-Source Contributor
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://shields.io"/>
-  </a>
-  <a href="mailto:kaniston7@gmail.com">
-    <img src="https://shields.io"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kaniston&style=for-the-badge&color=E50914&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/kaniston?style=for-the-badge&color=E50914&label=FOLLOWERS"/>
 </p>
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+## 🕷️ ABOUT ME
 
-<!-- 2. YOUR PHOTO: Upload 'my-photo.jpg' to your repo (displays neatly on the right) -->
-<img align="right" src="https://github.com/kaniston/kaniston/blob/main/profile.jpg" width="175" alt="Kaniston S." style="border-radius: 12px;" />
+<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
 
-- 🎓 Final-year **B.Sc. Computer Science** student at **Loyola College, Chennai** with an **8.7 CGPA**.
-- 💼 Experience as a **Full Stack Development Intern** and **AI & Data Analyst Intern** at Maiyyam Foundation.
-- 🚀 Passionate about building responsive web applications, real-time analytics dashboards, and clean backend APIs.
-- 📜 Certified in **Full Stack Development**, **Python for Data Science (NPTEL)**, and **Data Processing & Business Analytics**.
+Hey! I'm **Kaniston S.**, a Computer Science student passionate about software development, technology, and solving real-world problems.
 
-<br clear="both"/>
+- 🎓 B.Sc Computer Science – Loyola College, Chennai
+- 📊 CGPA: **8.7 / 10**
+- 💻 Full Stack Development Enthusiast
+- 🤖 AI & Data Analytics Explorer
+- 🚀 Building practical applications
+- 🌱 Learning new technologies every day
+- 🤝 Volunteer Coordinator at Little Drops Charitable Trust
+- 🎯 Looking for Software Development Internship opportunities
 
----
+**My Mission:** Build meaningful technology, solve real problems, and continuously level up my development skills.
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<h3 align="center">💻 Programming Languages</h3>
-<p align="center">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
-
-<h3 align="center">🌐 Web & Full-Stack Development</h3>
-<p align="center">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
-
-<h3 align="center">🗄️ Databases & Cloud</h3>
-<p align="center">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
-
-<h3 align="center">📊 Data Analytics & Developer Tools</h3>
-<p align="center">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
+<br clear="right"/>
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+## ⚔️ TECH ARSENAL
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **DevFlow** | Responsive project management platform featuring task tracking, team collaboration, workspace invitations, and secure authentication. | `React` `TypeScript` `Tailwind CSS` `Supabase` `Vercel` |
-| **ShopInsight** | Smart retail analytics and inventory management system with real-time stock tracking, automated low-stock alerts, and sales dashboards. | `HTML5` `CSS3` `JavaScript` `Node.js` `Supabase` |
-| **Student Registration System** | High-volume administrative CRUD web application synchronizing structured relational data with document collections. | `PHP` `MySQL` `MongoDB` `JavaScript` |
-| **Student Result Management** | Terminal-based academic record system built with strict Object-Oriented Programming (OOP) principles and custom file-stream handling. | `C++` `Java` `OOP` |
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,php&theme=dark"/>
+</p>
+
+### 🌐 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-FF3030?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,vercel&theme=dark"/>
+</p>
+
+### 🛠️ Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ---
 
-<h2 align="center">💼 Experience & Certifications</h2>
+## 🚀 FEATURED PROJECTS
 
-- **Full Stack Development Intern** — *Maiyyam Foundation (Nov 2025 – Jan 2026)*
-  - Built 10+ responsive React.js client layouts and RESTful backend APIs using Node.js and PHP.
-- **AI & Data Analyst Intern** — *Maiyyam Foundation (Sep 2025 – Oct 2025)*
-  - Scripted Python data cleaning pipelines and designed interactive project tracking analytics dashboards.
-- **Certifications:** Full Stack Traineeship Certificate • Python for Data Science (NPTEL) • Data Processing & Business Analytics (Anudip Foundation).
+### 🔴 01. DevFlow
+**Project Management Web Application**
+
+A collaborative project management platform designed to manage projects, tasks, issues, team workspaces, and user authentication.
+
+- Responsive project management interface.
+- Authentication and database integration.
+- Team management and workspace invitations.
+- Deployment through Vercel.
+
+**Tech Stack:** React.js | TypeScript | Tailwind CSS | Supabase | Vercel
 
 ---
 
-<p align="center">
-  <i>"Always Building. Always Learning."</i>
-</p>
+### 🔴 02. ShopInsight
+**Smart Retail Analytics & Inventory Management System**
 
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
+A smart retail platform designed to help small business owners manage products, monitor inventory, track sales, and identify low-stock products.
+
+- Interactive retail analytics dashboard.
+- Product and inventory management.
+- Automated low-stock identification.
+- User authentication and database integration.
+- Sales tracking and reporting.
+
+**Tech Stack:** HTML5 | CSS3 | JavaScript | Node.js | Supabase
+
+---
+
+### 🔴 03. Student Registration System
+**Administrative Student Management Platform**
+
+A web-based student registration application designed to simplify student data management and administrative operations.
+
+- Student registration and management.
+- CRUD operations.
+- Structured database integration.
+- Responsive user interface.
+
+**Tech Stack:** HTML | CSS | JavaScript | PHP | MySQL | MongoDB
+
+---
+
+### 🔴 04. Student Result Management System
+**Academic Record Management Application**
+
+A terminal-based application built to manage student academic records using programming fundamentals.
+
+- Object-Oriented Programming concepts.
+- Data encapsulation.
+- File handling and record storage.
+- Academic result management.
+
+**Tech Stack:** C++ | Java | OOP
+
+---
+
+## 💼 INTERNSHIP EXPERIENCE
+
+### Maiyyam Foundation
+
+**Full Stack Development Intern** | November 2025 – January 2026
+
+- Developed responsive frontend layouts using React.js and CSS.
+- Worked with Node.js and PHP backend components.
+- Practiced REST API integration and database operations.
+- Collaborated using Git and version control workflows.
+
+**AI & Data Analyst Intern** | September 2025 – October 2025
+
+- Performed data cleaning and preprocessing using Python.
+- Explored dataset analysis and algorithm validation.
+- Created analytics dashboards and interpreted structured data.
+- Developed practical knowledge of data analytics workflows.
+
+---
+
+## 🏆 CERTIFICATIONS
+
+- 🎓 Full Stack Traineeship Certificate
+- 🐍 Python for Data Science – NPTEL
+- 📊 Data Processing & Business Analytics – Anudip Foundation
+
+---
+
+## 🤝 VOLUNTEER EXPERIENCE
+
+**Little Drops Charitable Trust**
+
+*Project & Logistics Coordinator | August 2024 – Present*
+
+- Coordinating regional neurodiversity workshops.
+- Supporting the Trash and Treasure initiative.
+- Managing registrations, schedules, and donation records.
+- Coordinating volunteer responsibilities and event logistics.
+
+---
+
+## 🎓 EDUCATION
+
+| Qualification | Institution | Result
