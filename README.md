@@ -1,6 +1,6 @@
 <p align="center">
   <!-- 1. DEADPOOL BANNER: Upload 'deadpool-banner.jpg' to your repo -->
-  <img src="./deadpool.jpg" width="100%" alt="Deadpool Banner" />
+  <img src="./deadpool.jpg" width="100%"  />
 </p>
 
 <div align="center">
