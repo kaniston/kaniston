@@ -1,225 +1,110 @@
-<!--
-  KANISTON S. | GitHub Profile README
-  Neon Hacker Theme
--->
 
-<div align="center">
+<h1 align="center"> 🔴 KANISTON S. </h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B35,100:00FF9C&height=200&section=header&text=KANISTON%20S.&fontSize=55&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=16&descAlignY=58&descColor=00E5FF" width="100%" />
+<h3 align="center"> Aspiring Full Stack Developer | Computer Science Student </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Kaniston+%F0%9F%91%8B;B.Sc+Computer+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Data+Analytics+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Real+Projects+%E2%9A%A1" />
-
-<br/>
-
-<a href="https://github.com/kaniston">
-<img src="https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-<a href="mailto:kaniston7@gmail.com">
-<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-## `> whoami`
-
-```javascript
-const kaniston = {
-    name: "Kaniston S.",
-    education: "B.Sc Computer Science",
-    college: "Loyola College, Chennai",
-    interests: [
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Data Analytics",
-        "Problem Solving"
-    ],
-    currentlyLearning: "Building real-world applications",
-    motto: "Learn. Build. Improve. Repeat."
-};
-
-console.log("Welcome to my GitHub!");
-```
-
-- 🎓 Computer Science student at Loyola College, Chennai.
-- 💻 Interested in building practical web applications.
-- 🚀 Exploring Full Stack Development, AI and Data Analytics.
-- 🌱 Improving my development skills through hands-on projects.
-- 🎯 Looking for software development internship opportunities.
-
----
-
-## `> tech_stack`
-
-### Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,php" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Computer+Science+Student;AI+Explorer;Building+Digital+Experiences" alt="Typing SVG" />
 </p>
 
-### Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Deadpool-red?style=for-the-badge&logo=marvel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge" />
 </p>
 
-### Backend Development
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+## 👨‍💻 About Me
+
+- 🎓 B.Sc. Computer Science student at **Loyola College, Chennai**.
+- 💻 Interested in **Full Stack Development** and **Artificial Intelligence**.
+- 🚀 Building practical projects to solve real-world problems.
+- 🌱 Continuously learning new technologies and improving my skills.
+- 🎯 Aspiring to become a skilled Full Stack Developer.
+- 🤝 Open to internship opportunities and collaborations.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### Databases & Cloud
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,vercel" />
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,sqlite" />
 </p>
 
-### Development Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-**Additional Tool:** Power BI
+---
+
+## 🚀 Featured Projects
+
+### 🔴 ShopInsight — Smart Retail Analytics
+
+A retail analytics dashboard designed to help small businesses manage products, monitor inventory and record sales.
+
+**Technologies:** HTML, CSS, JavaScript, Supabase
+
+### 🟣 CampusConnect — Student Registration System
+
+A college-focused student registration system designed to manage student information with registration and search features.
+
+**Technologies:** HTML, CSS, JavaScript, Node.js, Express.js, SQLite
 
 ---
 
-## `> featured_projects`
+## 📊 GitHub Statistics
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaniston&show_icons=true&theme=dracula&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniston&layout=compact&theme=dracula&hide_border=true" />
+</p>
 
-### ⚡ DevFlow
-
-**Project Management Web Application**
-
-A platform to manage projects, tasks, issues, and team workspaces.
-
-**Tech Stack:**
-React · TypeScript · Tailwind CSS · Supabase
-
-[🌐 Live Demo](https://devflow-kaniston.vercel.app/)
-
-[📂 Source Code](https://github.com/kaniston/devflow)
-
-</td>
-<td width="50%">
-
-### 📊 ShopInsight
-
-**Smart Retail Analytics**
-
-A retail management application for product tracking, inventory monitoring, sales and analytics.
-
-**Tech Stack:**
-HTML · CSS · JavaScript · Supabase
-
-[📂 Source Code](https://github.com/kaniston)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎓 Student Registration System
-
-**PHP & Database Application**
-
-An administrative system featuring student registration, authentication, CRUD operations, activity logging and analytics.
-
-**Tech Stack:**
-PHP · MySQL · MongoDB · JavaScript
-
-[📂 Source Code](https://github.com/kaniston/student-registration-system)
-
-</td>
-<td width="50%">
-
-### 💻 Student Result Management System
-
-**Academic Record Management**
-
-A console-based academic record management project using OOP concepts and file handling.
-
-**Tech Stack:**
-C++ · Java
-
-[📂 Source Code](https://github.com/kaniston)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=kaniston&theme=dracula&hide_border=true" />
+</p>
 
 ---
 
-## `> github_stats`
+## 🐍 Contribution Activity
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaniston&show_icons=true&theme=chartreuse-dark&bg_color=050505&title_color=00FF9C&icon_color=00E5FF&text_color=FFFFFF&border_color=00FF9C&hide_border=false" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniston&layout=compact&theme=chartreuse-dark&bg_color=050505&title_color=00FF9C&text_color=FFFFFF&border_color=00FF9C" />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=kaniston&theme=chartreuse-dark&background=050505&ring=00FF9C&fire=00E5FF&currStreakLabel=00FF9C&sideLabels=FFFFFF&border=00FF9C" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kaniston/kaniston/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
 
 ---
 
-## `> contribution_activity`
+## 🤝 Connect With Me
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniston&bg_color=050505&color=00FF9C&line=00E5FF&point=FFFFFF&area=true&hide_border=false&border_color=00FF9C" width="100%" />
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/kaniston/kaniston/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-
-</div>
-
----
-
-## `> education`
-
-🎓 **B.Sc Computer Science**
-
-Loyola College, Chennai
-
-CGPA: **8.7 / 10**
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaniston">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kaniston">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## `> connect_with_me`
+<h3 align="center"> 🔴 CODE. CREATE. INNOVATE. </h3>
 
-<div align="center">
+<p align="center">
+  <i>"Every great developer started with a single line of code."</i>
+</p>
 
-<a href="mailto:kaniston7@gmail.com">
-<img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
+<p align="center">
+  Thanks for visiting my profile! Keep learning, keep building. 🚀
+</p>
 
-<a href="https://github.com/kaniston">
-<img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kaniston&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge" />
-
-<br/><br/>
-
-### ⚡ "Turning curiosity into code and ideas into reality."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:003B35,100:050505&height=120&section=footer" width="100%" />
-
-</div>
+<p align="center">
+  <b>Deadpool says: Stay awesome. And don't break production! 😎</b>
+</p>
