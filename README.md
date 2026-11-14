@@ -6,20 +6,6 @@
 
 <div align="center">
 
-```diff
-- ██   ██  █████  ███    ██ ██ ███████ ████████  ██████  ███    ██
-- ██  ██  ██   ██ ████   ██ ██ ██         ██    ██    ██ ████   ██
-- █████   ███████ ██ ██  ██ ██ ███████    ██    ██    ██ ██ ██  ██
-- ██  ██  ██   ██ ██  ██ ██ ██      ██    ██    ██    ██ ██  ██ ██
-- ██   ██ ██   ██ ██   ████ ██ ███████    ██     ██████  ██   ████
-```
-
- <!-- KANISTON S. | PROFESSIONAL GITHUB PROFILE -->
-
-<div align="center">
-
-< <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=200&section=header&text=KANISTON%20S.&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Building%20Ideas%20Into%20Digital%20Experiences&descAlignY=60&descSize=17" width="100%" alt="Profile Header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Data+Analytics+Enthusiast;Creative+Problem+Solver;Always+Learning+New+Technologies;Turning+Ideas+Into+Reality" alt="Typing Animation"/>
@@ -109,7 +95,7 @@ const kaniston = {
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:kaniston7@gmail.com">
+<a href="https://kaniston7@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
