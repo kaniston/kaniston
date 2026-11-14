@@ -1,6 +1,6 @@
 <p align="center">
   <!-- 1. DEADPOOL BANNER: Upload 'deadpool-banner.jpg' to your repo -->
-  <img src="https://github.com/kaniston/kaniston/blob/main/profile.jpg" width="100%"  />
+  <img src="https://github.com/kaniston/kaniston/blob/main/deadpool.jpeg" width="100%"  />
 </p>
 
 <div align="center">
@@ -41,7 +41,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <!-- 2. YOUR PHOTO: Upload 'my-photo.jpg' to your repo (displays neatly on the right) -->
-<img align="right" src="./profile.JFIF" width="175" alt="Kaniston S." style="border-radius: 12px;" />
+<img align="right" src="https://github.com/kaniston/kaniston/blob/main/profile.jpg" width="175" alt="Kaniston S." style="border-radius: 12px;" />
 
 - 🎓 Final-year **B.Sc. Computer Science** student at **Loyola College, Chennai** with an **8.7 CGPA**.
 - 💼 Experience as a **Full Stack Development Intern** and **AI & Data Analyst Intern** at Maiyyam Foundation.
