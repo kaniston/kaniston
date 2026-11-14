@@ -1,6 +1,6 @@
 <p align="center">
   <!-- 1. DEADPOOL BANNER: Upload 'deadpool-banner.jpg' to your repo -->
-  <img src="./deadpool.JFIF" width="100%"  />
+  <img src="https://github.com/kaniston/kaniston/blob/main/profile.jpg" width="100%"  />
 </p>
 
 <div align="center">
