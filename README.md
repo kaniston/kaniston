@@ -1,10 +1,7 @@
- <!--
-  KANISTON S. | DEADPOOL DEVELOPER EDITION
-  GitHub Profile: kaniston
--->
+ <!-- KANISTON | DEADPOOL GITHUB PROFILE -->
 
 <p align="center">
-  <img src="https://github.com/kaniston/kaniston/blob/main/deadpool.jpeg" width="100%" alt="Deadpool Developer Banner"/>
+  <img src="https://github.com/kaniston/kaniston/blob/main/loker.jpg" width="100%" alt="Deadpool Banner"/>
 </p>
 
 <div align="center">
@@ -17,178 +14,113 @@
 - ██   ██ ██   ██ ██   ████ ██ ███████    ██     ██████  ██   ████
 ```
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&duration=2500&pause=800&color=FF3030&center=true&vCenter=true&width=650&lines=KANISTON+S.;DEADPOOL+MODE+%3A+ON;CODE.+BREAK.+DEBUG.;MAXIMUM+EFFORT+%F0%9F%94%A5"/>
+
+<img src="https://komarev.com/ghpvc/?username=kaniston&style=for-the-badge&color=E50914&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/kaniston?style=for-the-badge&color=E50914&label=FOLLOWERS"/>
+
 </div>
 
-<h3 align="center">🩸 THE DEVELOPER WHO NEVER STOPS CODING 🩸</h3>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Data+Analytics+Enthusiast;B.Sc+Computer+Science+Student;Building+Real-World+Projects;Eat.+Sleep.+Code.+Repeat." alt="Typing Animation"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaniston&style=for-the-badge&color=E50914&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/kaniston?style=for-the-badge&color=E50914&label=FOLLOWERS"/>
-</p>
+## ☠️ WELCOME TO MY CHAOS ☠️
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
+
+### 🩸 EAT • SLEEP • CODE • REPEAT 🩸
+
+*"I'm not lazy. I'm just running in energy-saving mode."*
+
+</div>
 
 ---
 
-## 🕷️ ABOUT ME
+## ⚔️ TECH I KNOW
 
-<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
-
-Hey! I'm **Kaniston S.**, a Computer Science student passionate about software development, technology, and solving real-world problems.
-
-- 🎓 B.Sc Computer Science – Loyola College, Chennai
-- 📊 CGPA: **8.7 / 10**
-- 💻 Full Stack Development Enthusiast
-- 🤖 AI & Data Analytics Explorer
-- 🚀 Building practical applications
-- 🌱 Learning new technologies every day
-- 🤝 Volunteer Coordinator at Little Drops Charitable Trust
-- 🎯 Looking for Software Development Internship opportunities
-
-**My Mission:** Build meaningful technology, solve real problems, and continuously level up my development skills.
-
-<br clear="right"/>
-
----
-
-## ⚔️ TECH ARSENAL
+<div align="center">
 
 ### 💻 Programming Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,php&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,php&theme=dark"/>
 
 ### 🌐 Frontend Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark"/>
 
 ### ⚙️ Backend Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-FF3030?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/REST%20API-FF3030?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,vercel&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&theme=dark"/>
 
-### 🛠️ Developer Tools
+### 🛠️ Tools & Platforms
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux&theme=dark"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</div>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+<div align="center">
 
-### 🔴 01. DevFlow
-**Project Management Web Application**
+## 🔥 GITHUB POWER 🔥
 
-A collaborative project management platform designed to manage projects, tasks, issues, team workspaces, and user authentication.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaniston&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF"/>
 
-- Responsive project management interface.
-- Authentication and database integration.
-- Team management and workspace invitations.
-- Deployment through Vercel.
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniston&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3030&text_color=FFFFFF"/>
 
-**Tech Stack:** React.js | TypeScript | Tailwind CSS | Supabase | Vercel
+<br/><br/>
 
----
+<img width="75%" src="https://streak-stats.demolab.com?user=kaniston&theme=dark&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030"/>
 
-### 🔴 02. ShopInsight
-**Smart Retail Analytics & Inventory Management System**
-
-A smart retail platform designed to help small business owners manage products, monitor inventory, track sales, and identify low-stock products.
-
-- Interactive retail analytics dashboard.
-- Product and inventory management.
-- Automated low-stock identification.
-- User authentication and database integration.
-- Sales tracking and reporting.
-
-**Tech Stack:** HTML5 | CSS3 | JavaScript | Node.js | Supabase
+</div>
 
 ---
 
-### 🔴 03. Student Registration System
-**Administrative Student Management Platform**
+<div align="center">
 
-A web-based student registration application designed to simplify student data management and administrative operations.
+## 🐍 MY CONTRIBUTION SNAKE 🐍
 
-- Student registration and management.
-- CRUD operations.
-- Structured database integration.
-- Responsive user interface.
+<img src="https://raw.githubusercontent.com/kaniston/kaniston/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
-**Tech Stack:** HTML | CSS | JavaScript | PHP | MySQL | MongoDB
+</div>
 
 ---
 
-### 🔴 04. Student Result Management System
-**Academic Record Management Application**
+<div align="center">
 
-A terminal-based application built to manage student academic records using programming fundamentals.
+## 🕷️ FIND ME IN THE MULTIVERSE 🕷️
 
-- Object-Oriented Programming concepts.
-- Data encapsulation.
-- File handling and record storage.
-- Academic result management.
+<a href="https://github.com/kaniston">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF3030"/>
+</a>
 
-**Tech Stack:** C++ | Java | OOP
+<a href="https://www.linkedin.com/in/kaniston">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
 
----
+<a href="mailto:kaniston7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF3030"/>
+</a>
 
-## 💼 INTERNSHIP EXPERIENCE
+<br/><br/>
 
-### Maiyyam Foundation
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=2500&pause=1000&color=FF3030&center=true&vCenter=true&width=500&lines=KEEP+CODING.;DESTROY+THE+BUGS.;MAXIMUM+EFFORT." />
 
-**Full Stack Development Intern** | November 2025 – January 2026
+<br/><br/>
 
-- Developed responsive frontend layouts using React.js and CSS.
-- Worked with Node.js and PHP backend components.
-- Practiced REST API integration and database operations.
-- Collaborated using Git and version control workflows.
+### ☠️ CODE LIKE A HERO. DEBUG LIKE DEADPOOL. ☠️
 
-**AI & Data Analyst Intern** | September 2025 – October 2025
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E50914,100:000000&height=150&section=footer"/>
 
-- Performed data cleaning and preprocessing using Python.
-- Explored dataset analysis and algorithm validation.
-- Created analytics dashboards and interpreted structured data.
-- Developed practical knowledge of data analytics workflows.
+</div>
 
----
-
-## 🏆 CERTIFICATIONS
-
-- 🎓 Full Stack Traineeship Certificate
-- 🐍 Python for Data Science – NPTEL
-- 📊 Data Processing & Business Analytics – Anudip Foundation
-
----
-
-## 🤝 VOLUNTEER EXPERIENCE
-
-**Little Drops Charitable Trust**
-
-*Project & Logistics Coordinator | August 2024 – Present*
-
-- Coordinating regional neurodiversity workshops.
-- Supporting the Trash and Treasure initiative.
-- Managing registrations, schedules, and donation records.
-- Coordinating volunteer responsibilities and event logistics.
-
----
-
-## 🎓 EDUCATION
-
-| Qualification | Institution | Result
+<!-- END OF PROFILE README -->
