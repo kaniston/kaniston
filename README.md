@@ -1,7 +1,7 @@
  <!-- KANISTON | DEADPOOL GITHUB PROFILE -->
 
 <p align="center">
-  <img src="https://github.com/kaniston/kaniston/blob/main/joker.jpg" width="100%" alt="Deadpool Banner"/>
+  <img src="https://github.com/kaniston/kaniston/blob/main/panther.jpg" width="100%" alt="Deadpool Banner"/>
 </p>
 
 
